@@ -8,14 +8,14 @@ OpenAIの公開数学原稿を対象に、AIを用いた独立検証の記録を
 
 ## 査読目録
 
-過去の比較検証報告T01から、原稿2本に対応する限定検証記録を公開しました。2行は同じ比較試験を参照します。論文全体の数学状態はNOT_EVALUATEDです。
-
 | MGL査読ID | OpenAI Family | 原稿名・固定版 | 検証範囲 | 状態 | 記録 |
 | --- | --- | --- | --- | --- | --- |
-| MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) · `adc7f124` | 有理数比較・取込み試験 | 限定記録公開済み | [T01](T01.md#mgl-math-001-の確認範囲) |
-| MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) · `adc7f124` | 取込み試験。全証明は未評価 | 限定記録公開済み | [T01](T01.md#mgl-math-002-の確認範囲) |
+| MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) | 有理数比較・取込み試験 | 限定記録公開済み | [T01 v0.1.1](T01.md#mgl-math-001-の確認範囲) |
+| MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) | 取込み試験。全証明は未評価 | 限定記録公開済み | [T01 v0.1.1](T01.md#mgl-math-002-の確認範囲) |
 
-2件の記録の初回公開日は2026-11-11 JST、公開要約の現行版はv0.1.0、更新日は2026-11-11 JSTです。元の実験報告はT01 v0.1.0（2026-10-08）。[引用目録と固定版](../../citations/README.md)から、書誌ID MGL-REF-001の引用情報と更新履歴を確認できます。
+初回公開日 2026-11-11 JST · 更新日 2026-11-11 JST · v0.1.1
+
+[MGL-REF-001 / 引用目録](../../citations/README.md)
 
 ## 原典の記録方法
 
@@ -34,3 +34,4 @@ Family 002 · [Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank](htt
 4. Leanで確認した場合は、形式化の対象、対応する定理、確認した版。自然言語の原稿との対応を分けて記載します。
 
 [研究テーマ一覧](../README.md) · [公開トップ](../../README.md)
+
