@@ -2,6 +2,8 @@
 
 [日本語](README.md) · **English**
 
+<img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labs logo">
+
 ## Building a world where people and AI can live well together
 
 Masao Gate Labs studies how people and AI can share work and research safely while respecting each other's dignity. AI should have room to make decisions and act within the scope it has been given, and people should be able to intervene when needed. Both should be able to check what happened and carry what they learn into the next collaboration. We use concrete experiments to explore how that relationship can work.
@@ -20,6 +22,8 @@ Masao Gate Labs studies how people and AI can share work and research safely whi
 The AI proposes an update. The system checks the target against the authority delegated to the AI, carries out permitted updates, and denies requests outside that scope. A separate observation path checks the file before and after the attempt, so the authorization decision and the observed result can be matched to the same operation.
 
 This example illustrates how the research areas fit together. Published materials describe the measured results and the scope of verification for each experiment.
+
+[How we plan to verify this operation](themes/agent-authorization-evidence/README.en.md)
 
 ## Explore the public research
 
