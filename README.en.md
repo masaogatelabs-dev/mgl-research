@@ -21,7 +21,12 @@ The AI proposes an update. The system checks the target against the authority de
 
 This example illustrates how the research areas fit together. Published materials describe the measured results and the scope of verification for each experiment.
 
-## Explore the research
+## Explore the public research
 
-- [Current research themes](themes/README.en.md)
-- [Public results and scope of verification](results/README.en.md)
+| Where to start | What you will find |
+| --- | --- |
+| [Research series](series/README.en.md) | A three-stage study that draws on the formation of automobile institutions to develop requirements and a reference design for an AI society |
+| [Policy and technical proposals](proposals/README.en.md) | Proposals for assigning responsibility when work is delegated to AI and translating those responsibilities into runtime controls |
+| [Case analyses and applications](cases/README.en.md) | How specific incidents relate to MGL's research and what could be tested |
+
+[Current research themes](themes/README.en.md) · [Public results and scope of verification](results/README.en.md)
