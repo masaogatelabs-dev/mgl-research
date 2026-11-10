@@ -4,7 +4,17 @@
 
 Masao Gate Labs · AI-assisted review and verification
 
-MGL will publish records of independent, AI-assisted checks of mathematical manuscripts released by OpenAI. Each record identifies the claim and its assumptions, the parts of the proof examined, the supporting checks, and the points still open. This is an independent MGL research project.
+## About AI-assisted review
+
+MGL's AI-assisted review uses AI to examine a manuscript's claims, assumptions, arguments, and supporting references, and to record the process and findings. Its ultimate goal is to review the entire target manuscript and assess the validity of each claim and proof.
+
+While verification is in progress, we publish the scope checked so far, the parts still unchecked or undecided, and the reasons for holding a judgment open. These records support human reviewers in tracing the evidence and deciding where further examination or replication is needed.
+
+The [citation catalogue](../../citations/README.en.md) identifies verification records by bibliographic ID, version, and pinned URL. Together with the review index and links to the original manuscripts in each record, it helps readers understand which manuscript and revision were examined, what was established within the checked scope, and what remains undecided.
+
+This page presents records from MGL's independent research on mathematical manuscripts publicly released by OpenAI.
+
+Introduction updated 2026-11-11 JST
 
 ## Review index
 
@@ -34,4 +44,5 @@ Family 002 · [Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank](htt
 4. If Lean is used, the scope of formalization, the corresponding theorem, and the revision checked. Document how that formal statement relates to the prose manuscript.
 
 [Research themes](../README.en.md) · [Home](../../README.en.md)
+
 
