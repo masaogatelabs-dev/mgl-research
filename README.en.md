@@ -34,3 +34,5 @@ This example illustrates how the research areas fit together. Published material
 | [Case analyses and applications](cases/README.en.md) | How specific incidents relate to MGL's research and what could be tested |
 
 [Current research themes](themes/README.en.md) · [Public results and scope of verification](results/README.en.md)
+
+[Cite MGL research](citations/README.en.md)

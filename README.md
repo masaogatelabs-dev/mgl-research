@@ -34,3 +34,5 @@ AIが更新を提案し、仕組みが書き込み先と委任された権限を
 | [事案分析・適用例](cases/README.md) | 個別の事案から、MGLのどの研究が関係し、何を検証できるかを考える |
 
 [進行中の研究テーマ](themes/README.md) · [公開済みの成果物と検証範囲](results/README.md)
+
+[MGLの成果を引用する](citations/README.md)

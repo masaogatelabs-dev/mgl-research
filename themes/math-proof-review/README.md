@@ -15,6 +15,8 @@ OpenAIの公開数学原稿を対象に、AIを用いた独立検証の記録を
 | MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) · `adc7f124` | 有理数比較・取込み試験 | 限定記録公開済み | [T01](T01.md#mgl-math-001-の確認範囲) |
 | MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) · `adc7f124` | 取込み試験。全証明は未評価 | 限定記録公開済み | [T01](T01.md#mgl-math-002-の確認範囲) |
 
+2件の記録の初回公開日は2026-11-11 JST、公開要約の現行版はv0.1.0、更新日は2026-11-11 JSTです。元の実験報告はT01 v0.1.0（2026-10-08）。[引用目録と固定版](../../citations/README.md)から、書誌ID MGL-REF-001の引用情報と更新履歴を確認できます。
+
 ## 原典の記録方法
 
 - [OpenAIの原稿目録](https://github.com/openai/math/blob/main/CONTENTS.md)でFamily番号と原稿名を確認します。同じFamilyに複数の原稿がある場合は、査読対象の原稿を個別に指定します。

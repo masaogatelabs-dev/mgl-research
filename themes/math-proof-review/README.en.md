@@ -15,6 +15,8 @@ Historical report T01 supplies two manuscript-specific entries sharing one compa
 | MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) · `adc7f124` | Rational comparison and extraction tests | Limited record published | [T01](T01.en.md#mgl-math-001) |
 | MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) · `adc7f124` | Extraction tests; full proof unevaluated | Limited record published | [T01](T01.en.md#mgl-math-002) |
 
+Both entries were first published on 2026-11-11 JST. Their current public summary version is v0.1.0, updated 2026-11-11 JST. The original experiment report is T01 v0.1.0 (2026-10-08). The [citation catalogue and pinned edition](../../citations/README.en.md) provide citation details and revision history for MGL-REF-001.
+
 ## How to record the source
 
 - Use the [OpenAI manuscript catalogue](https://github.com/openai/math/blob/main/CONTENTS.md) to identify the family number and manuscript title. If a family contains several manuscripts, identify the individual manuscript under review.
