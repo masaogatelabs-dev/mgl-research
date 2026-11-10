@@ -10,6 +10,6 @@
 
 ## Specifications, code, and verification reports
 
-This section currently has no published materials. Once approved for public release, materials will be listed with their version and scope of verification.
+- [Limited verification record T01 v0.1.0 for two public mathematical manuscripts](../themes/math-proof-review/T01.en.md) — summary of the 2026-10-08 comparison report. A rational comparison for Family 088 and extraction tests for Families 088 and 353. Whole proofs remain unevaluated.
 
 [Research themes](../themes/README.en.md) · [Home](../README.en.md)
