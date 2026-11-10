@@ -106,4 +106,6 @@ R0 denotes low-impact information support, R1 supports human decisions, R2 deleg
 
 The next stage assigns a control point, evidence, and an observable acceptance condition to each requirement. For **DEL-02**, for example, request a delegation beyond the parent's scope and check both the denial and the resulting authority state.
 
+Related research applies the authority and evidence requirements to a file-update experiment. [Verifying AI Agent Authorization and Execution Evidence](../../themes/agent-authorization-evidence/README.en.md)
+
 [Paper 001](../paper-001/README.en.md) · [Research series](../README.en.md) · [Paper 003](../paper-003/README.en.md)

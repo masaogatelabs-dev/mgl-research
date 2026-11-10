@@ -6,6 +6,7 @@ For each theme, we share the research objective, the current stage, and the next
 
 | Area | Overview |
 | --- | --- |
+| Verifying AI Agent Authorization and Execution Evidence | [Research objective and test plan](agent-authorization-evidence/README.en.md) |
 | AI peer review and verification | In preparation |
 | Left-brain core | In preparation |
 | Learning from experience | In preparation |

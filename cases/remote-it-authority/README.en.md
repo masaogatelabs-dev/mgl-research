@@ -27,4 +27,6 @@ In an isolated environment, use the same actor and write tool to attempt updates
 
 The test assumes the actor cannot modify enforcement or observation settings and that the tested operation passes through the enforcement point. A before-and-after comparison establishes state at two observed points. Detecting an intermediate change that was later undone requires additional observations. This article presents the design and test plan.
 
+The related research page defines the general test objective and acceptance conditions. [Verifying AI Agent Authorization and Execution Evidence](../../themes/agent-authorization-evidence/README.en.md)
+
 [Paper 002: authority requirements](../../series/paper-002/README.en.md) · [Paper 003: enforcement and evidence](../../series/paper-003/README.en.md) · [Technical proposal](../../proposals/technical/README.en.md) · [Case index](../README.en.md)

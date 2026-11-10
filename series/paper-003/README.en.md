@@ -41,4 +41,6 @@ Check scope, configuration changes, and revocation at runtime. Restrict or suspe
 
 This is a reference design. A first evaluation would cover allowed and denied actions, missing evidence, material change, revocation, suspension, and recovery in a simulated environment, and report what could be observed. These are proposed tests. This paper presents no measured results for an integrated implementation.
 
+Related research turns enforcement and independent observation into a concrete file-update test plan. [Verifying AI Agent Authorization and Execution Evidence](../../themes/agent-authorization-evidence/README.en.md)
+
 [Paper 002](../paper-002/README.en.md) · [Security annex](../security-annex/README.en.md) · [Research series](../README.en.md)
