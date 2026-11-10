@@ -2,7 +2,7 @@
 
 [日本語](README.md) · **English**
 
-These companion proposals explain how responsibility can be assigned when work is delegated to AI and how runtime controls can enforce those responsibilities. They use shared proposal IDs **P-01 through P-08**. The links below lead to bilingual public summaries.
+These companion proposals explain how responsibility can be assigned when work is delegated to AI and how runtime controls can enforce those responsibilities. They use shared proposal IDs **P-01 through P-08**. The links below lead to the public editions in Japanese and English.
 
 | Proposal | What it covers |
 | --- | --- |
