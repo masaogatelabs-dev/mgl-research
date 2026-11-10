@@ -10,9 +10,6 @@
 
 ## Specifications, code, and verification reports
 
-This index lists specifications, code, verification reports, and reproduction instructions approved for public release. Each entry will identify the version and the scope of verification.
-
-| Output | Version | Scope of verification | Materials | Related theme |
-| --- | --- | --- | --- | --- |
+This section currently has no published materials. Once approved for public release, materials will be listed with their version and scope of verification.
 
 [Research themes](../themes/README.en.md) · [Home](../README.en.md)
