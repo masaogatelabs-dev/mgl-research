@@ -18,6 +18,10 @@ MGLのAI査読は、AIを用いて論文の主張・仮定・論証・参照す�
 
 案内更新日 2026-11-11 JST
 
+## 質問・提案する
+
+[T01 v0.1.1 の公開討論（MGL-MATH-001・002）](https://github.com/masaogatelabs-dev/mgl-research/discussions/2)で、質問や追試結果を共有できます。[査読希望・共同研究の提案](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals)も受け付けています。どちらも日本語・英語で投稿できます。
+
 ## 査読目録
 
 | MGL査読ID | OpenAI Family | 原稿名・固定版 | 検証範囲 | 状態 | Lean資料 | 検証記録 |

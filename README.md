@@ -2,6 +2,8 @@
 
 **日本語** · [English](README.en.md)
 
+[研究について質問・討論する](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/review-research-q-a) · [査読希望・共同研究を提案する](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals)
+
 <img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labsのロゴ">
 
 ## AI君達と一緒に仲良く暮らせる世界の創造

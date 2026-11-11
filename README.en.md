@@ -2,6 +2,8 @@
 
 [日本語](README.md) · **English**
 
+[Discuss the research](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/review-research-q-a) · [Request a review or propose a collaboration](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals)
+
 <img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labs logo">
 
 ## Building a world where people and AI can live well together
