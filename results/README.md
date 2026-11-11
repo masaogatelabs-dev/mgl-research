@@ -3,14 +3,14 @@
 **日本語** · [English](README.en.md)
 
 <!-- document-publication-format:begin -->
-論文・付録・提言・事案分析は、各目録から固定版の印刷用PDFを開けます。版と引用情報は[引用目録](../citations/README.md)に掲載します。
+論文・付録・提言・事案分析・開発報告は、各目録から固定版の印刷用PDFを開けます。版と引用情報は[引用目録](../citations/README.md)に掲載します。
 <!-- document-publication-format:end -->
 
 ## 公開した文書
 
 - [研究論文・セキュリティ付録](../series/README.md) — 歴史的根拠、要求、参照設計の公開編集版。
 - [政策・技術提言](../proposals/README.md) — 制度と技術の提案、検証計画。
-- [事案分析](../cases/README.md) — 事案の背景、制御の提案と試験計画。
+- [事案分析](../cases/README.md) — 事案の背景、制御の提案と試験計画。- [開発・検証報告](../reports/README.md) — 研究用ツールの実証結果と実測性能。
 
 ## 仕様・コード・検証報告
 

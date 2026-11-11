@@ -3,14 +3,14 @@
 [日本語](README.md) · **English**
 
 <!-- document-publication-format:begin -->
-Each index links to pinned, printable PDFs for papers, annexes, proposals, and case analyses. The [citation catalogue](../citations/README.en.md) lists their editions and references.
+Each index links to pinned, printable PDFs for papers, annexes, proposals, case analyses, and development reports. The [citation catalogue](../citations/README.en.md) lists their editions and references.
 <!-- document-publication-format:end -->
 
 ## Public documents
 
 - [Research papers and security annex](../series/README.en.md) — public editions covering evidence, requirements, and reference architecture.
 - [Policy and technical proposals](../proposals/README.en.md) — proposals and a verification plan.
-- [Case analyses](../cases/README.en.md) — incident context, a proposed control, and a test plan.
+- [Case analyses](../cases/README.en.md) — incident context, a proposed control, and a test plan.- [Development and validation reports](../reports/README.en.md) — validation and measured performance of research tools.
 
 ## Specifications, code, and verification reports
 

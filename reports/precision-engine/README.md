@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-009 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/80a14879c11e83a6bb5c6ba1d4e447d835b700a7/reports/precision-engine/README.md)  
+  初回公開。開発・検証報告をWeb版とA4 PDFで掲載。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Masao Gate Labsの開発・検証報告です。80有効桁の演算・検算を出発点に、従来の計算結果を維持しながら、研究ツールから呼び出せる計算の範囲を広げました。検証結果はCPU開発版 v1.1.0-dev.2、処理時間は v1.1.0-dev.1 の記録に基づきます。
 
 ## 本体・アダプター・今回の追加例

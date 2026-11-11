@@ -31,7 +31,7 @@ This example illustrates how the research areas fit together. Published material
 | --- | --- |
 | [Research series](series/README.en.md) | A three-stage study that draws on the formation of automobile institutions to develop requirements and a reference design for an AI society |
 | [Policy and technical proposals](proposals/README.en.md) | Proposals for assigning responsibility when work is delegated to AI and translating those responsibilities into runtime controls |
-| [Case analyses and applications](cases/README.en.md) | How specific incidents relate to MGL's research and what could be tested |
+| [Case analyses and applications](cases/README.en.md) | How specific incidents relate to MGL's research and what could be tested || [Development and validation reports](reports/README.en.md) | Validation and measured performance of research tools |
 
 [Current research themes](themes/README.en.md) · [Public results and scope of verification](results/README.en.md)
 

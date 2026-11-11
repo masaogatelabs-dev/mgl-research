@@ -2,6 +2,15 @@
 
 [日本語](README.md) · **English**
 
+<!-- document-pdf:begin -->
+## Printable PDFs and edition history
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-en.pdf) · 2026-11-11 JST · MGL-REF-009 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/80a14879c11e83a6bb5c6ba1d4e447d835b700a7/reports/precision-engine/README.en.md)  
+  Initial release of the development and validation report in web and A4 PDF editions.
+
+[Citation catalogue](../../citations/README.en.md) · [BibTeX](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Masao Gate Labs development report. Validation results are from CPU release v1.1.0-dev.2. Timing measurements are from v1.1.0-dev.1.
 
 ## Core, adapter, and extensions
