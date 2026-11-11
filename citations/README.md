@@ -6,14 +6,14 @@ MGLの公開成果を引用するための目録です。版を固定したURL�
 
 | 書誌ID | 資料・固定版 | 公開要約の版 | 初回公開日（JST） | 更新日（JST） |
 | --- | --- | --- | --- | --- |
-| MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/1dccf8c13fad8942259b08d8e5c5fc84e101d95b/themes/math-proof-review/T01.md) | v0.1.0 | 2026-11-11 | 2026-11-11 |
-| MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/b7013dbe1dc688bb2371bf16b9b162665b300a61/themes/math-proof-review/T01.md) | v0.1.1 | 2026-11-11 | 2026-11-11 |
+| MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/1dccf8c13fad8942259b08d8e5c5fc84e101d95b/themes/math-proof-review/T01.md) · Markdown | v0.1.0 | 2026-11-11 | 2026-11-11 |
+| MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) · PDF | v0.1.1 | 2026-11-11 | 2026-11-11 |
 
 ## MGL-REF-001
 
 Masao Gate Labs（2026）『公開数学原稿2本の限定検証記録 T01』公開要約 v0.1.1、MGL-REF-001、2026-11-11 JST。
 
-[本版の固定URL](https://github.com/masaogatelabs-dev/mgl-research/blob/b7013dbe1dc688bb2371bf16b9b162665b300a61/themes/math-proof-review/T01.md) · [BibTeX](references.bib)
+[本版の固定URL](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) · [Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/b7013dbe1dc688bb2371bf16b9b162665b300a61/themes/math-proof-review/T01.md) · [BibTeX](references.bib)
 
 MGL-MATH-001 / MGL-MATH-002
 

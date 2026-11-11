@@ -14,18 +14,24 @@ The [citation catalogue](../../citations/README.en.md) identifies verification r
 
 This page presents records from MGL's independent research on mathematical manuscripts publicly released by OpenAI.
 
+Verification records are available as versioned, printable A4 PDFs. The review index links to the source manuscripts, verification scope, revision history, citations, and Lean materials that correspond to the manuscript.
+
 Introduction updated 2026-11-11 JST
 
 ## Review index
 
-| MGL review ID | OpenAI Family | Manuscript / pinned revision | Scope | Status | Record |
-| --- | --- | --- | --- | --- | --- |
-| MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) | Rational comparison and extraction tests | Limited record published | [T01 v0.1.1](T01.en.md#mgl-math-001) |
-| MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) | Extraction tests; whole proof unevaluated | Limited record published | [T01 v0.1.1](T01.en.md#mgl-math-002) |
+| MGL review ID | OpenAI Family | Manuscript / pinned revision | Scope | Status | Lean materials | Verification record |
+| --- | --- | --- | --- | --- | --- | --- |
+| MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) | Rational comparison and extraction tests | Limited record published | [Formalization scope](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/docs/088.md) | [T01 PDF v0.1.1](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-en.pdf) · [Scope and history](T01.en.md#mgl-math-001) |
+| MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) | Extraction tests; whole proof unevaluated | Limited record published | Correspondence open | [T01 PDF v0.1.1](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-en.pdf) · [Scope and history](T01.en.md#mgl-math-002) |
 
 First published 2026-11-11 JST · Updated 2026-11-11 JST · v0.1.1
 
+PDF published 2026-11-11 JST
+
 [MGL-REF-001 / Citation catalogue](../../citations/README.en.md)
+
+The Lean column identifies supporting materials for the target manuscript. At the pinned revision, Family 088 includes the twenty-dimensional counterexample in the target manuscript. Family 353's formalization covers a separate manuscript on dimensions three through nine.
 
 ## How to record the source
 

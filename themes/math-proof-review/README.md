@@ -14,18 +14,24 @@ MGLのAI査読は、AIを用いて論文の主張・仮定・論証・参照す�
 
 ここではOpenAIの公開数学原稿を対象とした、MGLによる独立研究の記録を掲載します。
 
+検証記録の本文は、版ごとに印刷用のA4 PDFで掲載します。査読目録から原典、確認範囲、更新履歴、引用情報、原稿に対応するLean資料をたどれます。
+
 案内更新日 2026-11-11 JST
 
 ## 査読目録
 
-| MGL査読ID | OpenAI Family | 原稿名・固定版 | 検証範囲 | 状態 | 記録 |
-| --- | --- | --- | --- | --- | --- |
-| MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) | 有理数比較・取込み試験 | 限定記録公開済み | [T01 v0.1.1](T01.md#mgl-math-001-の確認範囲) |
-| MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) | 取込み試験。全証明は未評価 | 限定記録公開済み | [T01 v0.1.1](T01.md#mgl-math-002-の確認範囲) |
+| MGL査読ID | OpenAI Family | 原稿名・固定版 | 検証範囲 | 状態 | Lean資料 | 検証記録 |
+| --- | --- | --- | --- | --- | --- | --- |
+| MGL-MATH-001 | 088 | [A product counterexample to the simplex maximum for projection-body volume](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf) | 有理数比較・取込み試験 | 限定記録公開済み | [形式化の範囲](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/docs/088.md) | [T01 PDF v0.1.1](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) · [確認範囲・履歴](T01.md#mgl-math-001-の確認範囲) |
+| MGL-MATH-002 | 353 | [A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf) | 取込み試験。全証明は未評価 | 限定記録公開済み | 対応確認保留 | [T01 PDF v0.1.1](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) · [確認範囲・履歴](T01.md#mgl-math-002-の確認範囲) |
 
 初回公開日 2026-11-11 JST · 更新日 2026-11-11 JST · v0.1.1
 
+PDF公開日 2026-11-11 JST
+
 [MGL-REF-001 / 引用目録](../../citations/README.md)
+
+Lean欄は対象原稿に対応する原典の付属資料を示します。対象の固定版では、Family 088の形式化は今回の原稿の20次元の反例を含みます。Family 353の形式化は3〜9次元を扱う別原稿が対象です。
 
 ## 原典の記録方法
 

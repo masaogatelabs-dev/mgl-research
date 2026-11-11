@@ -6,14 +6,14 @@ Use the pinned edition URL when citing MGL's public work.
 
 | Bibliographic ID | Publication / pinned edition | Public version | First published (JST) | Updated (JST) |
 | --- | --- | --- | --- | --- |
-| MGL-REF-001 | [Limited verification record T01 for two public mathematical manuscripts](https://github.com/masaogatelabs-dev/mgl-research/blob/1dccf8c13fad8942259b08d8e5c5fc84e101d95b/themes/math-proof-review/T01.en.md) | v0.1.0 | 2026-11-11 | 2026-11-11 |
-| MGL-REF-001 | [Limited verification record T01 for two public mathematical manuscripts](https://github.com/masaogatelabs-dev/mgl-research/blob/b7013dbe1dc688bb2371bf16b9b162665b300a61/themes/math-proof-review/T01.en.md) | v0.1.1 | 2026-11-11 | 2026-11-11 |
+| MGL-REF-001 | [Limited verification record T01 for two public mathematical manuscripts](https://github.com/masaogatelabs-dev/mgl-research/blob/1dccf8c13fad8942259b08d8e5c5fc84e101d95b/themes/math-proof-review/T01.en.md) · Markdown | v0.1.0 | 2026-11-11 | 2026-11-11 |
+| MGL-REF-001 | [Limited verification record T01 for two public mathematical manuscripts](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-en.pdf) · PDF | v0.1.1 | 2026-11-11 | 2026-11-11 |
 
 ## MGL-REF-001
 
 Masao Gate Labs (2026). Limited verification record T01 for two public mathematical manuscripts. Public summary v0.1.1. MGL-REF-001. 2026-11-11 JST.
 
-[Pinned edition](https://github.com/masaogatelabs-dev/mgl-research/blob/b7013dbe1dc688bb2371bf16b9b162665b300a61/themes/math-proof-review/T01.en.md) · [BibTeX](references.bib)
+[Pinned edition](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-en.pdf) · [Pinned web record](https://github.com/masaogatelabs-dev/mgl-research/blob/b7013dbe1dc688bb2371bf16b9b162665b300a61/themes/math-proof-review/T01.en.md) · [BibTeX](references.bib)
 
 MGL-MATH-001 / MGL-MATH-002
 
