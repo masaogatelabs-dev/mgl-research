@@ -38,4 +38,5 @@ The two review IDs refer to one comparison report. Cite its original manuscripts
 | MGL-REF-007 | Masao Takeuchi | [Technical Proposal for an AI Management Infrastructure](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/technical/editions/MGL-REF-007-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
 | MGL-REF-008 | Masao Gate Labs | [Where Can an Action Be Stopped When a Legitimate Account Is Misused?](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
 | MGL-REF-009 | Masao Gate Labs | [MGL High-Precision Compute Engine](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-009 | Masao Gate Labs | [MGL High-Precision Compute Engine](https://github.com/masaogatelabs-dev/mgl-research/blob/891d6f6fe4495f7a697a76aeac2cd3c4e4db54ee/reports/precision-engine/editions/MGL-REF-009-v1.1.0-en.pdf) | v1.1.0 | 2026-11-11 |
 <!-- document-citations:end -->

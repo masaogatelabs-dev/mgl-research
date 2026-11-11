@@ -38,4 +38,5 @@ MGL-MATH-001 / MGL-MATH-002
 | MGL-REF-007 | 竹内政夫 | [AI管理基盤の技術提言書](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/technical/editions/MGL-REF-007-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
 | MGL-REF-008 | Masao Gate Labs | [正規アカウントが悪用されたとき、どこで操作を止められるか](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
 | MGL-REF-009 | Masao Gate Labs | [MGL高精度演算機 - 実証結果と処理性能](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-009 | Masao Gate Labs | [MGL高精度演算機 - 実証結果と処理性能](https://github.com/masaogatelabs-dev/mgl-research/blob/891d6f6fe4495f7a697a76aeac2cd3c4e4db54ee/reports/precision-engine/editions/MGL-REF-009-v1.1.0-ja.pdf) | v1.1.0 | 2026-11-11 |
 <!-- document-citations:end -->
