@@ -2,16 +2,7 @@
 
 **日本語** · [English](README.en.md)
 
-<!-- document-pdf:begin -->
-## 印刷用PDFと版履歴
-
-- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-009 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/80a14879c11e83a6bb5c6ba1d4e447d835b700a7/reports/precision-engine/README.md)  
-  初回公開。開発・検証報告をWeb版とA4 PDFで掲載。
-
-[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
-<!-- document-pdf:end -->
-
-Masao Gate Labsの開発・検証報告です。80有効桁の演算・検算を出発点に、従来の計算結果を維持しながら、研究ツールから呼び出せる計算の範囲を広げました。検証結果はCPU開発版 v1.1.0-dev.2、処理時間は v1.1.0-dev.1 の記録に基づきます。
+Masao Gate Labsの開発・検証報告です。実証はCPU開発版 v1.1.0-dev.2、処理時間は v1.1.0-dev.1 の記録に基づきます。
 
 ## 本体・アダプター・今回の追加例
 
@@ -22,29 +13,28 @@ Masao Gate Labsの開発・検証報告です。80有効桁の演算・検算を
 | 数学機能の拡張 | 16・32・80・160・320有効桁の指定と、最大8×8の行列積・行列式・逆行列・連立方程式を追加。 |
 | 係数検算の追加例 | HJO有限多項式は3プロファイル×5ランクの15組で、全係数が2つの計算経路で一致。 |
 
-## Linuxでの実証
+## 検算と監査の範囲
 
-v1.1.0-dev.2 のLinux x86-64検証で、自己試験66メソッドと連携試験43ケースが成功しました。行列積の回帰試験では有理数行列61件を検査しました。Windows x64での実測記録は基準版 v1.0.0 の80桁演算が対象です。行列機能を含む開発版のWindows実行は未確認です。
+指定可能な桁数と確認した精度を区別します。表の回帰比較と係数照合は、それぞれ記載の対象に限ります。監査では実行版と入出力を対応づけ、保存記録の整合性を確認します。計算の成否は別に記録します。
+
+Linux x86-64で自己試験66メソッド、連携試験43ケースが成功し、有理数行列積61件を検査しました。Windows実測は80桁の基準版 v1.0.0 が対象で、行列機能を含む開発版のWindows実行は未確認です。
 
 ## 8要求の一括処理実測
 
-v1.1.0-dev.1 を同じLinux環境で実行し、同じ8要求について、個別起動と一括実行を順序を交互にして各30回測定しました。所要時間には起動・計算・検算・保存・監査を含みます。
+dev.1を同じLinux環境で実行し、同じ8要求を各方式で交互に30回ずつ測定しました。起動・計算・検算・保存・監査を含みます。一括実行の中央値は個別起動の約21%でした。 [実証根拠表 v1.1.0](evidence/v1.1.0-ja.md)
 
 | 実行形態 | 中央値 | 95パーセンタイル |
 | --- | --- | --- |
 | 8件を個別起動 | 1.498秒 | 1.610秒 |
 | 8件を一括実行 | 0.312秒 | 0.343秒 |
 
-一括実行の中央値は個別起動の約21%でした。この値は8要求を処理する一連の作業に対する計測結果です。
-
 ## NVIDIA cuBLAS・尾崎方式IIとの対比
 
-NVIDIAはCUDA Toolkit 13.4のcuBLASで、性能上有利な条件に尾崎方式IIを用いると説明しています。以下は各取り組みが公開した指標の対比です。[NVIDIA リリースノート](https://docs.nvidia.com/cuda/archive/13.4.1/cuda-toolkit-release-notes/index.html#cublas-release-13-4)
+NVIDIAはCUDA Toolkit 13.4のcuBLASで、性能上有利な条件に尾崎方式IIを用いると説明しています。 [NVIDIA リリースノート](https://docs.nvidia.com/cuda/archive/13.4.1/cuda-toolkit-release-notes/index.html#cublas-release-13-4)
 
 | 項目 | MGL高精度演算機 | NVIDIA cuBLAS |
 | --- | --- | --- |
 | 対象 | CPUでの小規模行列・多倍長演算と検算 | GPUでの倍精度（FP64）行列積 |
-| 精度 | 16〜320有効桁の選択肢 | FP64エミュレーション |
 | 性能指標 | 8要求の一括処理に要した時間。中央値0.312秒 | NVIDIA公表の実数DGEMM処理量。B200で最大175 TFLOPS、RTX PRO 6000 Blackwell Server Editionで最大45 TFLOPS |
 
 MGLの秒数は検算・保存も含む所要時間で、NVIDIAのTFLOPSは行列積の処理量です。速度を直接比較するには、入力・精度・計測区間をそろえた測定が必要です。
