@@ -1,0 +1,38 @@
+name: "資料の訂正報告 / Publication correction"
+description: "公開資料の誤記、引用のずれ、リンク切れ、検証記録の訂正 / Report an error in published material."
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        日本語・英語で投稿できます。投稿は公開されます。未公開資料や個人情報の添付はお控えください。
+        You may post in Japanese or English. Reports are public. Please omit private materials and personal information.
+
+        [査読・研究の討論 / Research Q&A](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/review-research-q-a) · [査読希望・共同研究 / Research proposals](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals)
+  - type: input
+    id: publication
+    attributes:
+      label: "対象資料と版 / Publication and edition"
+      description: "資料IDと版、または該当ページのURLを記入してください。 / Enter the publication ID and version, or the page URL."
+      placeholder: "MGL-REF-001, T01 v0.1.1"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "該当箇所 / Location"
+      description: "ページ・節・式番号・リンク名など / Page, section, equation, or link text"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: "指摘内容 / What needs correcting"
+      description: "現在の記載と、どこに問題があるかを教えてください。 / Describe the current wording and the issue."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "根拠・修正案 / Evidence or suggested correction"
+      description: "分かる範囲で、公開できる原典、計算、修正文などを添えてください。 / Add public sources, calculations, or suggested wording where available."

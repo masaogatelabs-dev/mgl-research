@@ -4,6 +4,8 @@
 
 [研究について質問・討論する](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/review-research-q-a) · [査読希望・共同研究を提案する](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals)
 
+[資料の訂正を報告する](https://github.com/masaogatelabs-dev/mgl-research/issues/new?template=publication-correction.yml) · [新刊・改訂のお知らせ](https://github.com/masaogatelabs-dev/mgl-research/releases)
+
 <img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labsのロゴ">
 
 ## AI君達と一緒に仲良く暮らせる世界の創造

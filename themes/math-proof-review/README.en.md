@@ -22,6 +22,8 @@ Introduction updated 2026-11-11 JST
 
 Share questions or independent checks in the [T01 v0.1.1 discussion (MGL-MATH-001 and MGL-MATH-002)](https://github.com/masaogatelabs-dev/mgl-research/discussions/2). Use [Research Proposals](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals) to suggest a manuscript for review or propose a collaboration. Posts in Japanese and English are welcome.
 
+[Reproduce the Family 088 rational comparison](T01-rational-check.md) · [Report a publication correction](https://github.com/masaogatelabs-dev/mgl-research/issues/new?template=publication-correction.yml)
+
 ## Review index
 
 | MGL review ID | OpenAI Family | Manuscript / pinned revision | Scope | Status | Lean materials | Verification record |

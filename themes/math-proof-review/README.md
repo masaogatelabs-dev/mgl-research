@@ -22,6 +22,8 @@ MGLのAI査読は、AIを用いて論文の主張・仮定・論証・参照す�
 
 [T01 v0.1.1 の公開討論（MGL-MATH-001・002）](https://github.com/masaogatelabs-dev/mgl-research/discussions/2)で、質問や追試結果を共有できます。[査読希望・共同研究の提案](https://github.com/masaogatelabs-dev/mgl-research/discussions/categories/research-proposals)も受け付けています。どちらも日本語・英語で投稿できます。
 
+[Family 088の有理数比較を追試する](T01-rational-check.md) · [資料の訂正を報告する](https://github.com/masaogatelabs-dev/mgl-research/issues/new?template=publication-correction.yml)
+
 ## 査読目録
 
 | MGL査読ID | OpenAI Family | 原稿名・固定版 | 検証範囲 | 状態 | Lean資料 | 検証記録 |
