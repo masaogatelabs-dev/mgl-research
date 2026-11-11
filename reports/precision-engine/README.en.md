@@ -2,6 +2,19 @@
 
 [日本語](README.md) · **English**
 
+<!-- document-pdf:begin -->
+## Printable PDFs and edition history
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-en.pdf) · 2026-11-11 JST · MGL-REF-009 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/80a14879c11e83a6bb5c6ba1d4e447d835b700a7/reports/precision-engine/README.en.md)  
+  Initial release of the development and validation report in web and A4 PDF editions.
+- [PDF v1.1.0](https://github.com/masaogatelabs-dev/mgl-research/blob/891d6f6fe4495f7a697a76aeac2cd3c4e4db54ee/reports/precision-engine/editions/MGL-REF-009-v1.1.0-en.pdf) · 2026-11-11 JST · MGL-REF-009 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/ab2afb4baa945665ee18a9553d0b4b148e3d8efb/reports/precision-engine/README.en.md)  
+  Clarified the scope of verification and audit and added versioned evidence for the recorded results.
+- [PDF v1.2.0](https://github.com/masaogatelabs-dev/mgl-research/blob/dc3ad73f75d6a2893d375c78083e934596cebe97/reports/precision-engine/editions/MGL-REF-009-v1.2.0-en.pdf) · 2026-11-12 JST · MGL-REF-009 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/a941aca36752163556db5ed45f8ec5d2a07f60e3/reports/precision-engine/README.en.md)  
+  Added a link to the development history and concept.
+
+[Citation catalogue](../../citations/README.en.md) · [BibTeX](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Validation used CPU release v1.1.0-dev.2. Timings used v1.1.0-dev.1.
 
 [Development history and concept](concept/v1.2.0-en.md) · MGL's first artifact from the β2 tool loop
