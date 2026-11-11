@@ -24,3 +24,17 @@ The two review IDs refer to one comparison report. Cite its original manuscripts
 [Current publication and revision history](../themes/math-proof-review/T01.en.md)
 
 [Home](../README.en.md)
+
+<!-- document-citations:begin -->
+## Papers, proposals, and case analyses
+
+| Bibliographic ID | Author | Publication and pinned PDF | PDF edition | PDF published (JST) |
+| --- | --- | --- | --- | --- |
+| MGL-REF-002 | Masao Takeuchi | [Paper 001 · Institutional Design for an AI Society](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-001/editions/MGL-REF-002-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-003 | Masao Takeuchi | [Paper 002 · Requirements Engineering for an AI Society](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-002/editions/MGL-REF-003-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-004 | Masao Takeuchi | [Paper 003 · Reference Architecture for an AI Society](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-003/editions/MGL-REF-004-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-005 | Masao Takeuchi | [Security Annex · Mapping Threats to Defense in Depth](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/security-annex/editions/MGL-REF-005-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-006 | Masao Takeuchi | [Policy and Institutional Proposal for an AI-Native Society](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/policy/editions/MGL-REF-006-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-007 | Masao Takeuchi | [Technical Proposal for an AI Management Infrastructure](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/technical/editions/MGL-REF-007-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-008 | Masao Gate Labs | [Where Can an Action Be Stopped When a Legitimate Account Is Misused?](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
+<!-- document-citations:end -->

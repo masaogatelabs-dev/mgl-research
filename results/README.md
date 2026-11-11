@@ -2,6 +2,10 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-publication-format:begin -->
+論文・付録・提言・事案分析は、各目録から固定版の印刷用PDFを開けます。版と引用情報は[引用目録](../citations/README.md)に掲載します。
+<!-- document-publication-format:end -->
+
 ## 公開した文書
 
 - [研究論文・セキュリティ付録](../series/README.md) — 歴史的根拠、要求、参照設計の公開編集版。
@@ -13,3 +17,4 @@
 - [公開数学原稿2本の限定検証記録 T01 v0.1.1（PDF）](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) — 2026年10月8日の比較試験報告から公開要約。Family 088の有理数比較と、Family 088・353の取込み試験。原証明全体は未評価です。
 
 [研究テーマ一覧](../themes/README.md) · [トップ](../README.md)
+

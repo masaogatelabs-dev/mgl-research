@@ -24,3 +24,17 @@ MGL-MATH-001 / MGL-MATH-002
 [現在の文書・更新履歴](../themes/math-proof-review/T01.md)
 
 [公開トップ](../README.md)
+
+<!-- document-citations:begin -->
+## 論文・提言・事案分析
+
+| 書誌ID | 著者 | 資料・固定版 | PDF版 | PDF公開日（JST） |
+| --- | --- | --- | --- | --- |
+| MGL-REF-002 | 竹内政夫 | [第001論文　自動車社会から考えるAI社会の制度形成](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-001/editions/MGL-REF-002-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-003 | 竹内政夫 | [第002論文　AI社会制度のための要求工学](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-002/editions/MGL-REF-003-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-004 | 竹内政夫 | [第003論文　AI社会制度要求を実装へ接続する参照アーキテクチャ](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-003/editions/MGL-REF-004-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-005 | 竹内政夫 | [セキュリティ付録　脅威と多層防御の対応](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/security-annex/editions/MGL-REF-005-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-006 | 竹内政夫 | [AIネイティブ社会の政策と制度の提言](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/policy/editions/MGL-REF-006-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-007 | 竹内政夫 | [AI管理基盤の技術提言書](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/technical/editions/MGL-REF-007-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+| MGL-REF-008 | Masao Gate Labs | [正規アカウントが悪用されたとき、どこで操作を止められるか](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-ja.pdf) | v1.0.0 | 2026-11-11 |
+<!-- document-citations:end -->

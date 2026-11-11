@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/policy/editions/MGL-REF-006-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-006 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/proposals/policy/README.md)  
+  初回PDF掲載。公開Web原稿をA4に組版。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 著者 竹内政夫（Masao Gate Labs）。文書ID **MGL-ASP-POL-001**。原稿 v1.1、文書日付 2026年10月29日。  
 公開編集版。原稿の研究・執筆支援は Microsoft Copilot と ChatGPT。公開編集と英訳は ChatGPT が支援しました。
 
@@ -71,3 +80,4 @@ AIが外部システムに作用し、他のAIへ仕事を再委任する用途�
 参考資料 [第001論文の参考資料](../../series/paper-001/README.md) · [警察庁・交通安全対策の歩み](https://www.npa.go.jp/hakusyo/h29/honbun/html/tf120000.html) · [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) · [NIST AI Agent Standards Initiative](https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative)
 
 [技術提言](../technical/README.md) · [提言一覧](../README.md) · [研究シリーズ](../../series/README.md)
+

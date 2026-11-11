@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-008 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/cases/remote-it-authority/README.md)  
+  初回PDF掲載。公開Web原稿をA4に組版。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Masao Gate Labs · 事案分析・適用例 001  
 2026年11月10日公開。MGLの白書草案をもとにした公開編集版です。
 
@@ -30,3 +39,4 @@ Masao Gate Labs · 事案分析・適用例 001
 この事案と関連する研究の目的と判定条件は、研究テーマのページにまとめています。 [AIエージェントの実行権限と証跡の検証](../../themes/agent-authorization-evidence/README.md)
 
 [第002論文・権限要件](../../series/paper-002/README.md) · [第003論文・実行制御と証跡](../../series/paper-003/README.md) · [技術提言](../../proposals/technical/README.md) · [事案一覧](../README.md)
+

@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-002/editions/MGL-REF-003-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-003 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/series/paper-002/README.md)  
+  初回PDF掲載。公開Web原稿をA4に組版。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 著者 竹内政夫（Masao Gate Labs）。原稿 v1.0（2026年10月24日）に基づく公開編集版。原稿の研究・執筆支援は Microsoft Copilot、公開編集と英訳の支援は ChatGPT。
 
 独立研究として公開します。AIサービス提供元による共同研究、査読、承認、支持を示すものではありません。
@@ -109,3 +118,4 @@ R0は低影響の情報支援、R1は人間の判断支援、R2は外部操作�
 権限・証跡要件をファイル更新の実験に適用する研究を、別ページで紹介しています。 [AIエージェントの実行権限と証跡の検証](../../themes/agent-authorization-evidence/README.md)
 
 [第001論文](../paper-001/README.md) · [研究シリーズ](../README.md) · [第003論文](../paper-003/README.md)
+

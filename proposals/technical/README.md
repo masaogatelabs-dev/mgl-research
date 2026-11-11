@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/technical/editions/MGL-REF-007-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-007 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/proposals/technical/README.md)  
+  初回PDF掲載。公開Web原稿をA4に組版。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 著者 竹内政夫（Masao Gate Labs）。文書ID **MGL-ASP-TEC-001**。原稿 v1.1、文書日付 2026年10月29日。  
 公開編集版。原稿の研究・執筆支援は Microsoft Copilot と ChatGPT。公開編集と英訳は ChatGPT が支援しました。
 
@@ -54,3 +63,4 @@
 用途ごとに成功条件、観測できる状態、想定する障害、独立性、残余リスクを記録します。失効反映や照合の時間上限は用途ごとに事前に定めます。以上は参照構成と試験計画で、統合構成の実測や安全性認証は掲載していません。
 
 [政策提言とP-01〜P-08の対応表](../policy/README.md) · [要求カタログ](../../series/paper-002/README.md) · [事案分析](../../cases/README.md)
+

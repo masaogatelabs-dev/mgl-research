@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/security-annex/editions/MGL-REF-005-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-005 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/series/security-annex/README.md)  
+  初回PDF掲載。公開Web原稿をA4に組版。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 著者 竹内政夫（Masao Gate Labs）。統合シリーズ v1.1（2026年10月24日）の付録Sに基づく公開編集版。原稿の研究・執筆支援は Microsoft Copilot、公開編集と英訳の支援は ChatGPT。
 
 独立研究として公開します。AIサービス提供元による共同研究、査読、承認、支持を示すものではありません。
@@ -31,3 +40,4 @@ OWASP、MITRE ATLAS、NISTの脅威の語彙を参照し、各対策が予防、
 接続点は研究上の提案です。制御の網羅性や実効性は、前提条件と観測範囲を明示した試験で評価します。
 
 [第003論文](../paper-003/README.md) · [研究シリーズ](../README.md) · [事案分析](../../cases/README.md)
+

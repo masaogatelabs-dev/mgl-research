@@ -6,7 +6,8 @@ These companion proposals explain how responsibility can be assigned when work i
 
 | Proposal | What it covers |
 | --- | --- |
-| [Policy and Institutional Proposal for an AI-Native Society](policy/README.en.md) | Who grants authority, oversees its use, and takes responsibility for investigation and remedy after an incident |
-| [Technical Proposal for an AI Management Infrastructure](technical/README.en.md) | How delegation, authorization, enforcement, evidence reconciliation, suspension, and recovery fit together |
+| [Policy and Institutional Proposal for an AI-Native Society](policy/README.en.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/policy/editions/MGL-REF-006-v1.0.0-en.pdf) | Who grants authority, oversees its use, and takes responsibility for investigation and remedy after an incident |
+| [Technical Proposal for an AI Management Infrastructure](technical/README.en.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/technical/editions/MGL-REF-007-v1.0.0-en.pdf) | How delegation, authorization, enforcement, evidence reconciliation, suspension, and recovery fit together |
 
 [Research series](../series/README.en.md) · [Case analyses and applications](../cases/README.en.md) · [Home](../README.en.md)
+

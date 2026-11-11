@@ -2,6 +2,15 @@
 
 **日本語** · [English](README.en.md)
 
+<!-- document-pdf:begin -->
+## 印刷用PDFと版履歴
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-001/editions/MGL-REF-002-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-002 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/series/paper-001/README.md)  
+  初回PDF掲載。公開Web原稿をA4に組版。
+
+[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 著者 竹内政夫（Masao Gate Labs）  
 原稿 v1.0（2026年10月24日）に基づく公開編集版。原稿の研究・執筆支援は Microsoft Copilot、公開編集と英訳の支援は ChatGPT。研究上の主張は著者に帰属します。
 
@@ -34,3 +43,4 @@
 技術能力・配備・相互接続の変化が、リスクを観測して合意形成し、制度を更新する速度を上回る可能性を、研究仮説として置きます。第002論文では、先に試せる要求を定め、事故や実証から得た証拠を要求の見直しに戻す方法を扱います。
 
 [研究シリーズ](../README.md) · [第002論文](../paper-002/README.md)
+

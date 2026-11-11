@@ -2,6 +2,15 @@
 
 [日本語](README.md) · **English**
 
+<!-- document-pdf:begin -->
+## Printable PDFs and edition history
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-002/editions/MGL-REF-003-v1.0.0-en.pdf) · 2026-11-11 JST · MGL-REF-003 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/series/paper-002/README.en.md)  
+  First print edition of the published web manuscript, typeset on A4.
+
+[Citation catalogue](../../citations/README.en.md) · [BibTeX](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Author: Masao Takeuchi (Masao Gate Labs). Public edition based on the v1.0 manuscript dated 24 October 2026. Microsoft Copilot supported the original research and writing. ChatGPT assisted with public editing and translation.
 
 This is independent research. The acknowledgments indicate assistance and do not imply collaboration, review, approval, or endorsement by the AI providers.
@@ -109,3 +118,4 @@ The next stage assigns a control point, evidence, and an observable acceptance c
 Related research applies the authority and evidence requirements to a file-update experiment. [Verifying AI Agent Authorization and Execution Evidence](../../themes/agent-authorization-evidence/README.en.md)
 
 [Paper 001](../paper-001/README.en.md) · [Research series](../README.en.md) · [Paper 003](../paper-003/README.en.md)
+

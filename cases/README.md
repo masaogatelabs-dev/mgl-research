@@ -4,8 +4,9 @@
 
 個別事案を出発点に、MGLのどの研究が関係するか、制御をどこに置くか、何を証拠に効果を判定するかを整理します。各記事では、**出典で確認できる事実、MGLの設計提案、試験計画、公開できる実測結果**を区別します。
 
-## [001 · 正規アカウントが悪用されたとき、どこで操作を止められるか](remote-it-authority/README.md)
+## [001 · 正規アカウントが悪用されたとき、どこで操作を止められるか](remote-it-authority/README.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-ja.pdf)
 
 リモートIT業務のなりすまし事案を手掛かりに、実行直前の権限制御と独立した状態観測を隔離環境で試す計画を紹介します。報道内容とMGLの検証案を分けて読めます。
 
 [研究シリーズ](../series/README.md) · [政策・技術提言](../proposals/README.md) · [トップ](../README.md)
+

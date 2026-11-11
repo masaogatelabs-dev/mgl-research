@@ -2,6 +2,15 @@
 
 [日本語](README.md) · **English**
 
+<!-- document-pdf:begin -->
+## Printable PDFs and edition history
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/security-annex/editions/MGL-REF-005-v1.0.0-en.pdf) · 2026-11-11 JST · MGL-REF-005 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/series/security-annex/README.en.md)  
+  First print edition of the published web manuscript, typeset on A4.
+
+[Citation catalogue](../../citations/README.en.md) · [BibTeX](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Author: Masao Takeuchi (Masao Gate Labs). Public edition based on Annex S of the integrated v1.1 series dated 24 October 2026. Microsoft Copilot supported the original research and writing. ChatGPT assisted with public editing and translation.
 
 This is independent research. The acknowledgments indicate assistance and do not imply collaboration, review, approval, or endorsement by the AI providers.
@@ -31,3 +40,4 @@ Consider a read-only task whose agent can see a tool that also offers deletion. 
 These interfaces are research proposals. Evaluate coverage and effectiveness under stated assumptions and within a defined observation scope.
 
 [Paper 003](../paper-003/README.en.md) · [Research series](../README.en.md) · [Case analyses](../../cases/README.en.md)
+

@@ -6,11 +6,12 @@ This series examines how institutions developed to support road safety and uses 
 
 | Reading order | Role in the series |
 | --- | --- |
-| [Paper 001 · Historical Evidence](paper-001/README.en.md) | Examines institutions such as registration, qualification, and periodic inspection to identify functions worth considering in other domains |
-| [Paper 002 · Requirements Engineering](paper-002/README.en.md) | Translates those functions into requirements for identity, delegation, evidence, revocation, recovery, and related areas |
-| [Paper 003 · Reference Architecture](paper-003/README.en.md) | Maps the requirements to trust boundaries, runtime control points, evidence, and verification tasks |
-| [Integrated series v1.1 · Security Annex](security-annex/README.en.md) | Uses examples such as prompt injection and excessive authority to explain which controls address which stages |
+| [Paper 001 · Historical Evidence](paper-001/README.en.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-001/editions/MGL-REF-002-v1.0.0-en.pdf) | Examines institutions such as registration, qualification, and periodic inspection to identify functions worth considering in other domains |
+| [Paper 002 · Requirements Engineering](paper-002/README.en.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-002/editions/MGL-REF-003-v1.0.0-en.pdf) | Translates those functions into requirements for identity, delegation, evidence, revocation, recovery, and related areas |
+| [Paper 003 · Reference Architecture](paper-003/README.en.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/paper-003/editions/MGL-REF-004-v1.0.0-en.pdf) | Maps the requirements to trust boundaries, runtime control points, evidence, and verification tasks |
+| [Integrated series v1.1 · Security Annex](security-annex/README.en.md) · [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/series/security-annex/editions/MGL-REF-005-v1.0.0-en.pdf) | Uses examples such as prompt injection and excessive authority to explain which controls address which stages |
 
 For example, the institutional ability to revoke a qualification informs a requirement to revoke authority delegated to AI. The reference design turns that requirement into a verification question: can a subsequent action be denied at runtime?
 
 [Policy and technical proposals](../proposals/README.en.md) · [Case analyses and applications](../cases/README.en.md) · [Home](../README.en.md)
+

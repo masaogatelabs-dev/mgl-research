@@ -2,6 +2,15 @@
 
 [日本語](README.md) · **English**
 
+<!-- document-pdf:begin -->
+## Printable PDFs and edition history
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/cases/remote-it-authority/editions/MGL-REF-008-v1.0.0-en.pdf) · 2026-11-11 JST · MGL-REF-008 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/cases/remote-it-authority/README.en.md)  
+  First print edition of the published web manuscript, typeset on A4.
+
+[Citation catalogue](../../citations/README.en.md) · [BibTeX](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Masao Gate Labs · Case Analysis 001  
 Published 10 November 2026. Public edition adapted from an MGL white paper draft.
 
@@ -30,3 +39,4 @@ The test assumes the actor cannot modify enforcement or observation settings and
 The related research page defines the general test objective and acceptance conditions. [Verifying AI Agent Authorization and Execution Evidence](../../themes/agent-authorization-evidence/README.en.md)
 
 [Paper 002: authority requirements](../../series/paper-002/README.en.md) · [Paper 003: enforcement and evidence](../../series/paper-003/README.en.md) · [Technical proposal](../../proposals/technical/README.en.md) · [Case index](../README.en.md)
+

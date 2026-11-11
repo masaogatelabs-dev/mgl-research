@@ -2,6 +2,15 @@
 
 [日本語](README.md) · **English**
 
+<!-- document-pdf:begin -->
+## Printable PDFs and edition history
+
+- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/792de6c54073e8fe19a86e7544672f5f668ca709/proposals/policy/editions/MGL-REF-006-v1.0.0-en.pdf) · 2026-11-11 JST · MGL-REF-006 · [Pinned web source](https://github.com/masaogatelabs-dev/mgl-research/blob/58bb4b5e264c3d2a36fe1163879c5afe8da4e510/proposals/policy/README.en.md)  
+  First print edition of the published web manuscript, typeset on A4.
+
+[Citation catalogue](../../citations/README.en.md) · [BibTeX](../../citations/references.bib)
+<!-- document-pdf:end -->
+
 Author: Masao Takeuchi (Masao Gate Labs). Document ID **MGL-ASP-POL-001**. Source version v1.1, dated 29 October 2026.  
 Public edition. Microsoft Copilot and ChatGPT supported the original research and writing. ChatGPT assisted with public editing and translation.
 
@@ -71,3 +80,4 @@ Progress through design, simulation, independent evaluation, and limited deploym
 Related public sources: [Paper 001 references](../../series/paper-001/README.en.md) · [Japan National Police Agency: History of traffic safety measures](https://www.npa.go.jp/hakusyo/h29/honbun/html/tf120000.html) · [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) · [NIST AI Agent Standards Initiative](https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative)
 
 [Technical proposal](../technical/README.en.md) · [Proposal index](../README.en.md) · [Research series](../../series/README.en.md)
+
