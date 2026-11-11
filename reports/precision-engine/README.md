@@ -2,18 +2,9 @@
 
 **日本語** · [English](README.en.md)
 
-<!-- document-pdf:begin -->
-## 印刷用PDFと版履歴
-
-- [PDF v1.0.0](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-ja.pdf) · 2026-11-11 JST · MGL-REF-009 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/80a14879c11e83a6bb5c6ba1d4e447d835b700a7/reports/precision-engine/README.md)  
-  初回公開。開発・検証報告をWeb版とA4 PDFで掲載。
-- [PDF v1.1.0](https://github.com/masaogatelabs-dev/mgl-research/blob/891d6f6fe4495f7a697a76aeac2cd3c4e4db54ee/reports/precision-engine/editions/MGL-REF-009-v1.1.0-ja.pdf) · 2026-11-11 JST · MGL-REF-009 · [固定版Web原稿](https://github.com/masaogatelabs-dev/mgl-research/blob/ab2afb4baa945665ee18a9553d0b4b148e3d8efb/reports/precision-engine/README.md)  
-  検算・監査の範囲を明記し、対象版と測定条件を示す実証根拠表を追加。
-
-[引用目録](../../citations/README.md) · [引用データ（BibTeX）](../../citations/references.bib)
-<!-- document-pdf:end -->
-
 Masao Gate Labsの開発・検証報告です。実証はCPU開発版 v1.1.0-dev.2、処理時間は v1.1.0-dev.1 の記録に基づきます。
+
+[開発の経緯とコンセプトを見る](concept/v1.2.0-ja.md) ｜ β2型の道具作成ループから生まれたMGL最初の成果
 
 ## 本体・アダプター・今回の追加例
 
