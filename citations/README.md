@@ -8,6 +8,7 @@ MGLの公開成果を引用するための目録です。版を固定したURL�
 | --- | --- | --- | --- | --- |
 | MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/1dccf8c13fad8942259b08d8e5c5fc84e101d95b/themes/math-proof-review/T01.md) · Markdown | v0.1.0 | 2026-11-11 | 2026-11-11 |
 | MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) · PDF | v0.1.1 | 2026-11-11 | 2026-11-11 |
+| MGL-REF-010 | [セイモア第二近傍予想の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/Family173.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/editions/Family173-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 
 ## MGL-REF-001
 
@@ -22,6 +23,14 @@ MGL-MATH-001 / MGL-MATH-002
 > 数式取込みで分母が脱落する事例は、Masao Gate Labs (2026, MGL-REF-001, v0.1.1, MGL-MATH-001) が報告している。
 
 [現在の文書・更新履歴](../themes/math-proof-review/T01.md)
+
+## MGL-REF-010
+
+Masao Gate Labs（2026）『セイモア第二近傍予想の技術査読』公開版 v0.1.0、MGL-REF-010、2026-11-14 JST。
+
+査読ID MGL-MATH-003 · OpenAI Math Family 173
+
+[Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/Family173.md) · [A4 PDF固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/editions/Family173-v0.1.0-ja.pdf) · [BibTeX](references.bib) · [OpenAIの固定版原論文](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/A-proof-of-Seymours-second-neighborhood-conjecture-September-23-2026/paper.pdf)
 
 [公開トップ](../README.md)
 
