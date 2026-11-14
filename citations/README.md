@@ -9,6 +9,10 @@ MGLの公開成果を引用するための目録です。版を固定したURL�
 | MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/1dccf8c13fad8942259b08d8e5c5fc84e101d95b/themes/math-proof-review/T01.md) · Markdown | v0.1.0 | 2026-11-11 | 2026-11-11 |
 | MGL-REF-001 | [公開数学原稿2本の限定検証記録 T01](https://github.com/masaogatelabs-dev/mgl-research/blob/17ae9cb70ba781d99969a92ba46c7009a3f761f5/themes/math-proof-review/editions/T01-v0.1.1-ja.pdf) · PDF | v0.1.1 | 2026-11-11 | 2026-11-11 |
 | MGL-REF-010 | [セイモア第二近傍予想の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/Family173.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/editions/Family173-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
+| MGL-REF-011 | [ボルスク予想の9次元反例の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family156.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family156-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
+| MGL-REF-012 | [シドレンコ予想の反例の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family161.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family161-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
+| MGL-REF-013 | [ライザー予想の釣り合い条件付き反例の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family162.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family162-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
+| MGL-REF-014 | [エルデシュ–ガライ閉路分解予想の査読途中報告](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family181.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family181-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 
 ## MGL-REF-001
 
@@ -31,6 +35,38 @@ Masao Gate Labs（2026）『セイモア第二近傍予想の技術査読』公�
 査読ID MGL-MATH-003 · OpenAI Math Family 173
 
 [Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/Family173.md) · [A4 PDF固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/140574b7c4bc1c54be98ce3c8443c48370b7790d/themes/math-proof-review/editions/Family173-v0.1.0-ja.pdf) · [BibTeX](references.bib) · [OpenAIの固定版原論文](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/A-proof-of-Seymours-second-neighborhood-conjecture-September-23-2026/paper.pdf)
+
+## MGL-REF-011
+
+Masao Gate Labs（2026）『ボルスク予想の9次元反例の技術査読』公開版 v0.1.0、MGL-REF-011、2026-11-14 JST。
+
+査読ID MGL-MATH-004 · OpenAI Math Family 156
+
+[Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family156.md) · [A4 PDF固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family156-v0.1.0-ja.pdf) · [BibTeX](references.bib) · [OpenAIの固定版原論文](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/A-nine-dimensional-counterexample-to-Borsuks-covering-assertion-September-23-2026/paper.pdf)
+
+## MGL-REF-012
+
+Masao Gate Labs（2026）『シドレンコ予想の反例の技術査読』公開版 v0.1.0、MGL-REF-012、2026-11-14 JST。
+
+査読ID MGL-MATH-005 · OpenAI Math Family 161
+
+[Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family161.md) · [A4 PDF固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family161-v0.1.0-ja.pdf) · [BibTeX](references.bib) · [OpenAIの固定版原論文](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/A-counterexample-to-Sidorenkos-conjecture-September-23-2026/paper.pdf)
+
+## MGL-REF-013
+
+Masao Gate Labs（2026）『ライザー予想の釣り合い条件付き反例の技術査読』公開版 v0.1.0、MGL-REF-013、2026-11-14 JST。
+
+査読ID MGL-MATH-006 · OpenAI Math Family 162
+
+[Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family162.md) · [A4 PDF固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family162-v0.1.0-ja.pdf) · [BibTeX](references.bib) · [OpenAIの固定版原論文](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/Balanced-Counterexamples-to-Rysers-Conjecture-at-Prime-Orders-September-27-2026/paper.pdf)
+
+## MGL-REF-014
+
+Masao Gate Labs（2026）『エルデシュ–ガライ閉路分解予想の査読途中報告』途中報告 公開版 v0.1.0、MGL-REF-014、2026-11-14 JST。
+
+査読ID MGL-MATH-007 · OpenAI Math Family 181 · 固定原稿の査読判定は保留
+
+[Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family181.md) · [A4 PDF固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family181-v0.1.0-ja.pdf) · [BibTeX](references.bib) · [OpenAIの固定版原論文](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/main.pdf)
 
 [公開トップ](../README.md)
 
