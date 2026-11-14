@@ -13,6 +13,7 @@ Use the pinned edition URL when citing MGL's public work.
 | MGL-REF-012 | [Technical review of the Sidorenko counterexample](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family161.en.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family161-v0.1.0-en.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 | MGL-REF-013 | [Technical review of the balanced Ryser counterexamples](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family162.en.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family162-v0.1.0-en.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 | MGL-REF-014 | [Interim review of the Erdős–Gallai cycle-decomposition manuscript](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family181.en.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family181-v0.1.0-en.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
+| MGL-REF-015 | [At most three mutually unbiased bases in complex dimension six](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/themes/math-proof-review/Family266.en.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/themes/math-proof-review/editions/Family266-v0.1.0-en.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 
 ## MGL-REF-001
 
@@ -68,6 +69,14 @@ Review ID MGL-MATH-007 · OpenAI Math Family 181 · Pinned manuscript review on 
 
 [Pinned web edition](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family181.en.md) · [Pinned A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family181-v0.1.0-en.pdf) · [BibTeX](references.bib) · [OpenAI’s pinned manuscript](https://github.com/openai/math/blob/4eaee87548250b2682affda7d05d947c05554bae/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/main.pdf)
 
+## MGL-REF-015
+
+Masao Gate Labs (2026). At most three mutually unbiased bases in complex dimension six. Technical review v0.1.0, MGL-REF-015, 2026-11-14 JST.
+
+Review ID MGL-MATH-008 · OpenAI Math Family 266
+
+[Pinned web edition](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/themes/math-proof-review/Family266.en.md) · [Pinned A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/themes/math-proof-review/editions/Family266-v0.1.0-en.pdf) · [BibTeX](references.bib) · [OpenAI’s pinned manuscript](https://github.com/openai/math/blob/42907c9e999cc00d6abe7a50bfc1023250edd1b9/preprints/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026.pdf) · [Related case study MGL-REF-016](#mgl-ref-016)
+
 [Home](../README.en.md)
 
 <!-- document-citations:begin -->
@@ -85,4 +94,12 @@ Review ID MGL-MATH-007 · OpenAI Math Family 181 · Pinned manuscript review on 
 | MGL-REF-009 | Masao Gate Labs | [MGL High-Precision Compute Engine](https://github.com/masaogatelabs-dev/mgl-research/blob/363b550db2815ae9d18281dce185aa588d9aa4cd/reports/precision-engine/editions/MGL-REF-009-v1.0.0-en.pdf) | v1.0.0 | 2026-11-11 |
 | MGL-REF-009 | Masao Gate Labs | [MGL High-Precision Compute Engine](https://github.com/masaogatelabs-dev/mgl-research/blob/891d6f6fe4495f7a697a76aeac2cd3c4e4db54ee/reports/precision-engine/editions/MGL-REF-009-v1.1.0-en.pdf) | v1.1.0 | 2026-11-11 |
 | MGL-REF-009 | Masao Gate Labs | [MGL High-Precision Compute Engine](https://github.com/masaogatelabs-dev/mgl-research/blob/dc3ad73f75d6a2893d375c78083e934596cebe97/reports/precision-engine/editions/MGL-REF-009-v1.2.0-en.pdf) | v1.2.0 | 2026-11-12 |
+| MGL-REF-016 | Masao Gate Labs | [The MGL High-Precision Engine in a technical review](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/reports/precision-engine/MGL-High-Precision-Engine-Family266.en.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/reports/precision-engine/editions/MGL-High-Precision-Engine-Family266-v0.1.0-en.pdf) | v0.1.0 | 2026-11-14 |
 <!-- document-citations:end -->
+
+## MGL-REF-016
+
+Masao Gate Labs (2026). The MGL High-Precision Engine in a technical review. v0.1.0, MGL-REF-016, 2026-11-14 JST.
+
+[Pinned web edition](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/reports/precision-engine/MGL-High-Precision-Engine-Family266.en.md) · [Pinned A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/reports/precision-engine/editions/MGL-High-Precision-Engine-Family266-v0.1.0-en.pdf) · [BibTeX](references.bib) · [Family 266 technical review MGL-REF-015](#mgl-ref-015)
+
