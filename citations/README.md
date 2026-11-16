@@ -14,7 +14,7 @@ MGLの公開成果を引用するための目録です。版を固定したURL�
 | MGL-REF-013 | [ライザー予想の釣り合い条件付き反例の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family162.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family162-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 | MGL-REF-014 | [エルデシュ–ガライ閉路分解予想の査読途中報告](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/Family181.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/beb2caa3f4a7c8e3ce7ead43496f43597578d688/themes/math-proof-review/editions/Family181-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
 | MGL-REF-015 | [複素6次元の相互不偏基底は最大3組](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/themes/math-proof-review/Family266.md) · [A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/df333e12c9f43b1f402c61902d7da7c2681fdaf4/themes/math-proof-review/editions/Family266-v0.1.0-ja.pdf) | v0.1.0 | 2026-11-14 | 2026-11-14 |
-| MGL-REF-017 | [ナビエ–ストークス方程式の有限時間特異点の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/bee30fce15e85514c9a70f9d0de998202c2b26d2/themes/math-proof-review/NavierStokes-Technical-Review.ja.md) · 日本語Web | v0.1.5 | 2026-11-16 | 2026-11-16 |
+| MGL-REF-017 | [ナビエ–ストークス方程式の有限時間特異点の技術査読](https://github.com/masaogatelabs-dev/mgl-research/blob/bee30fce15e85514c9a70f9d0de998202c2b26d2/themes/math-proof-review/NavierStokes-Technical-Review.ja.md) · [日本語Web v0.1.5](https://github.com/masaogatelabs-dev/mgl-research/blob/bee30fce15e85514c9a70f9d0de998202c2b26d2/themes/math-proof-review/NavierStokes-Technical-Review.ja.md) · [日本語A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/2675ad94bc37066496242dff0f15cb39d6e886f4/themes/math-proof-review/editions/NavierStokes-Technical-Review-v0.1.5-ja.pdf) · [英語Web](https://github.com/masaogatelabs-dev/mgl-research/blob/2675ad94bc37066496242dff0f15cb39d6e886f4/themes/math-proof-review/NavierStokes-Technical-Review.en.md) · [英語A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/2675ad94bc37066496242dff0f15cb39d6e886f4/themes/math-proof-review/editions/NavierStokes-Technical-Review-v0.1.5-en.pdf) | v0.1.5 | 2026-11-16 | 2026-11-16 |
 
 ## MGL-REF-001
 
@@ -80,11 +80,11 @@ Masao Gate Labs（2026）『複素6次元の相互不偏基底は最大3組』�
 
 ## MGL-REF-017
 
-Masao Gate Labs（2026）『ナビエ–ストークス方程式の有限時間特異点の技術査読』日本語Web版 v0.1.5、MGL-REF-017、2026-11-16 JST。
+Masao Gate Labs（2026）『ナビエ–ストークス方程式の有限時間特異点の技術査読』日英Web・A4 PDF版 v0.1.5、MGL-REF-017、2026-11-16 JST。
 
 査読ID MGL-MATH-009 · 主定理1.1・系10.6
 
-[日本語Web固定版](https://github.com/masaogatelabs-dev/mgl-research/blob/bee30fce15e85514c9a70f9d0de998202c2b26d2/themes/math-proof-review/NavierStokes-Technical-Review.ja.md) · [BibTeX](references.bib) · [原論文PDF](https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf)
+[日本語Web v0.1.5](https://github.com/masaogatelabs-dev/mgl-research/blob/bee30fce15e85514c9a70f9d0de998202c2b26d2/themes/math-proof-review/NavierStokes-Technical-Review.ja.md) · [日本語A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/2675ad94bc37066496242dff0f15cb39d6e886f4/themes/math-proof-review/editions/NavierStokes-Technical-Review-v0.1.5-ja.pdf) · [英語Web](https://github.com/masaogatelabs-dev/mgl-research/blob/2675ad94bc37066496242dff0f15cb39d6e886f4/themes/math-proof-review/NavierStokes-Technical-Review.en.md) · [英語A4 PDF](https://github.com/masaogatelabs-dev/mgl-research/blob/2675ad94bc37066496242dff0f15cb39d6e886f4/themes/math-proof-review/editions/NavierStokes-Technical-Review-v0.1.5-en.pdf) · [BibTeX](references.bib) · [原論文PDF](https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf)
 
 [公開トップ](../README.md)
 
