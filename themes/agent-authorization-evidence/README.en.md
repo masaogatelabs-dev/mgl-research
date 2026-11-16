@@ -27,6 +27,8 @@ Use synthetic files in an isolated environment. Start each trial from the same i
 
 A before-and-after comparison establishes content at two observed points. Detecting intermediate changes that were reversed, or evaluating paths outside the test scope, requires additional observations. This page presents the test plan. Results available for public release will be published separately with their test conditions and observation limits.
 
+[See how the controls and evidence are designed](../README.en.md#execution-controls-and-evidence)
+
 ## Related research
 
 - [Paper 002](../../series/paper-002/README.en.md) on authority (AUTH) and evidence (EVD) requirements

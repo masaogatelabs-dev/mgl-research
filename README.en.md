@@ -12,6 +12,26 @@
 
 Masao Gate Labs studies how people and AI can share work and research safely while respecting each other's dignity. AI should have room to make decisions and act within the scope it has been given, and people should be able to intervene when needed. Both should be able to check what happened and carry what they learn into the next collaboration. We use concrete experiments to explore how that relationship can work.
 
+## Research Areas
+
+### ① AI-Led Mathematical Review
+
+We publish technical reviews in which AI examines the assumptions and proofs in mathematical papers, showing what it checked, how it checked it, and what the review established.
+
+[Navier–Stokes technical review](themes/math-proof-review/NavierStokes-Technical-Review.en.md) · [Review index](themes/math-proof-review/README.en.md)
+
+### ② AI Governance and Security
+
+We study how to define which actions AI agents may take and how third parties can verify that those limits were enforced.
+
+[AI agent authorization and execution evidence: test plan](themes/agent-authorization-evidence/README.en.md)
+
+### ③ Next-Generation AI Research
+
+We study how AI can apply lessons and tools from past verification work to new problems, along with the computation and communication infrastructure that supports this work.
+
+[Research themes](themes/README.en.md) · [The MGL High-Precision Engine in a technical review](reports/precision-engine/MGL-High-Precision-Engine-Family266.en.md)
+
 ## How our research fits together
 
 | Role in collaboration | Related research |
@@ -35,7 +55,8 @@ This example illustrates how the research areas fit together. Published material
 | --- | --- |
 | [Research series](series/README.en.md) | A three-stage study that draws on the formation of automobile institutions to develop requirements and a reference design for an AI society |
 | [Policy and technical proposals](proposals/README.en.md) | Proposals for assigning responsibility when work is delegated to AI and translating those responsibilities into runtime controls |
-| [Case analyses and applications](cases/README.en.md) | How specific incidents relate to MGL's research and what could be tested || [Development and validation reports](reports/README.en.md) | Validation and measured performance of research tools |
+| [Case analyses and applications](cases/README.en.md) | How specific incidents relate to MGL's research and what could be tested |
+| [Development and validation reports](reports/README.en.md) | Validation and measured performance of research tools |
 
 [Current research themes](themes/README.en.md) · [Public results and scope of verification](results/README.en.md)
 
