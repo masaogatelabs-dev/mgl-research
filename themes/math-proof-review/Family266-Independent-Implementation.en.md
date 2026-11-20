@@ -4,6 +4,8 @@ Masao Gate Labs | Supplement to the Family 266 technical review v0.2.0 | Initial
 
 [日本語](Family266-Independent-Implementation.md) · **English**
 
+**Follow-up, 20 November 2026.** We traced the six remaining cases and checked coverage under the Hadamard condition. [Follow-up verification](Family266-Coverage-Followup.en.md)
+
 We compared the 163 unresolved records from the initial Stage C pass in OpenAI's published computation, as reproduced by MGL, with the 43 unresolved records from the implementation that maximusrufus and colleagues built from the paper's text. We allowed row and column permutations, transpose and complex conjugation, and measured distances after removing row and column phase offsets. **All 43 centers from the independent implementation lay inside at least one candidate ball from the published computation.** [MGL's replay](https://github.com/masaogatelabs-dev/mgl-research/blob/41bd45f6d3697cf864198d39e646b8ff4eca8ace/themes/math-proof-review/Family266.en.md#review-04) · [Independent data and discussion](https://github.com/google-deepmind/formal-conjectures/issues/6918#issuecomment-7016254568)
 
 | Item | Published computation | Independent implementation |

@@ -4,6 +4,8 @@ Masao Gate Labs ｜ Family 266 技術査読 v0.2.0 補足研究 ｜ 初回比較
 
 **日本語** · [English](Family266-Independent-Implementation.en.md)
 
+**追記（2026年11月20日）**　初回比較で残った6件について、対応先の照合とアダマール条件付きの被覆判定を行いました。[6件の追跡と最終判定](Family266-Coverage-Followup.md)
+
 OpenAIの公開コードをMGLが再実行した際の初回Stage Cの未解決163件と、maximusrufusらが論文の文章から独自に実装した計算の未解決43件を比較した。行・列の置換、転置、複素共役を認め、行・列の位相差を除いた空間で距離を測ると、**独自実装の43件すべての中心が原論文側の候補球のいずれかに入った。** [MGLの再実行記録](https://github.com/masaogatelabs-dev/mgl-research/blob/41bd45f6d3697cf864198d39e646b8ff4eca8ace/themes/math-proof-review/Family266.md#review-04) · [独自実装の中間データ案内](https://github.com/google-deepmind/formal-conjectures/issues/6918#issuecomment-7016254568)
 
 | 確認項目 | 原論文側 | 独自実装側 |
