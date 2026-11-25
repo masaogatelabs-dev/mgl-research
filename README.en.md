@@ -6,7 +6,22 @@
 
 [Report a publication correction](https://github.com/masaogatelabs-dev/mgl-research/issues/new?template=publication-correction.yml) · [Publication releases](https://github.com/masaogatelabs-dev/mgl-research/releases)
 
-<img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labs logo">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="140">
+      <img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labs logo">
+    </td>
+    <td valign="middle">
+      <h2>Core Research Principles</h2>
+      <ul>
+        <li><strong>Mutual flourishing and respect for dignity:</strong> People and AI collaborate while respecting each other's dignity.</li>
+        <li><strong>Autonomous Research Principles:</strong> Do not demand an answer. Enable AI to understand each research stage and autonomously cycle through evidence-based decisions. Treat unresolved findings, counterevidence, and failures as inputs to later decisions. Answers should emerge from sound research processes.</li>
+        <li><strong>Independent verification and continuity:</strong> Separate decisions from independent checks, preserve evidence and lessons, and carry them into subsequent research.</li>
+        <li><strong>Diversity and responsibility:</strong> Respect diverse perspectives and research methods, clarify delegated authority, and preserve the right of people to intervene.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Building a world where people and AI can live well together
 
