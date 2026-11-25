@@ -24,6 +24,8 @@ Do not demand an answer. Enable AI to understand each research stage and autonom
 >
 > Answers should not be imposed as an objective; they should emerge from sound research processes.
 
+> **Autonomy does not mean refraining from asking people questions. It is the ability to use the necessary tools and appropriately distinguish between decisions to make independently and those that call for collaboration.**
+
 ### Technical implementation principles
 
 - Prioritize sound judgment rather than compelling AI to provide answers.
