@@ -12,13 +12,7 @@
       <img src="assets/mgl-logo.png" width="112" alt="Masao Gate Labsのロゴ">
     </td>
     <td valign="middle">
-      <h2>研究基本原則</h2>
-      <ul>
-        <li><strong>共存共栄・相互尊厳：</strong>人とAIが互いの尊厳を大切にし、協働する。</li>
-        <li><strong>自律研究基本原則：</strong>答えを強要せず、各研究工程を把握し、証拠に基づく判断を自律的に循環させる。保留・反証・失敗も次の判断に活かし、答えは健全な研究循環の結果として得られるものとする。</li>
-        <li><strong>独立検証・継続性：</strong>判断と独立検算を分け、証拠と経験を保存し、次の研究へ引き継ぐ。</li>
-        <li><strong>多様性と責任：</strong>多様な視点と研究手法を尊重し、委任の範囲と人の介入権を明確にする。</li>
-      </ul>
+      <h3><a href="principles/README.md">研究基本原則</a></h3>
     </td>
   </tr>
 </table>
